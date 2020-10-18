@@ -32,7 +32,9 @@ main{
 }
 
 main img{
-	max-width: 100%;
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid #f8b038;
 }
 
 h2{
