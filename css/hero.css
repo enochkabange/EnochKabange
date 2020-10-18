@@ -32,6 +32,7 @@ main{
 }
 
 main img {
+	align-items: center;
     border-radius: 170px;
     width: 200px; 
     border: 10px solid #f8b038;
